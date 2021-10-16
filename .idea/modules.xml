@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_lessons.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_lessons.iml" group="Android_lessons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/P0091_OnClickButtons/P0091_OnClickButtons.iml" filepath="$PROJECT_DIR$/.idea/modules/P0091_OnClickButtons/P0091_OnClickButtons.iml" group="Android lessons/P0091_OnClickButtons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/P0101_Listener/P0101_Listener.iml" filepath="$PROJECT_DIR$/.idea/modules/P0101_Listener/P0101_Listener.iml" group="Android lessons/P0101_Listener" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/P0102_ActivityListener/P0102_ActivityListener.iml" filepath="$PROJECT_DIR$/.idea/modules/P0102_ActivityListener/P0102_ActivityListener.iml" group="Android lessons/P0102_ActivityListener" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Android lessons/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/.idea/modules/p0031firstproject/p0031firstproject.iml" group="Android lessons/p0031firstproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/.idea/modules/p0041basicviews/p0041basicviews.iml" group="Android lessons/p0041basicviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/.idea/modules/p0051layoutfiles/p0051layoutfiles.iml" group="Android lessons/p0051layoutfiles" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p0081viewbyid/p0081viewbyid.iml" filepath="$PROJECT_DIR$/.idea/modules/p0081viewbyid/p0081viewbyid.iml" group="Android lessons/p0081viewbyid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p0091onclickbuttons/p0091onclickbuttons.iml" filepath="$PROJECT_DIR$/.idea/modules/p0091onclickbuttons/p0091onclickbuttons.iml" group="Android lessons/p0091onclickbuttons" />
+    </modules>
+  </component>
+</project>
