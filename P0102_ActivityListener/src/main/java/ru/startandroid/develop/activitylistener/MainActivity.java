@@ -28,12 +28,14 @@ public class MainActivity extends Activity implements View.OnClickListener {
        // btnCancel.setOnClickListener(this);
     }
 
+
+
     @Override
     public void onClick(View view) {
         // по id определеяем кнопку, вызвавшую этот обработчик
         switch (view.getId()) {
             case R.id.btnOk:
-                // кнопка ОК
+                // кнопка ОК !
                 tvOut.setText("Нажата кнопка ОК");
                 break;
             case R.id.btnCancel:
